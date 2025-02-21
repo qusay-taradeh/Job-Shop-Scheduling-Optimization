@@ -1,4 +1,4 @@
-# Job-Shop-Scheduling-Optimization
+# Job Shop Scheduling Optimization
 Optimizing Job Shop Scheduling in a Manufacturing Plant using Genetic Algorithm
 
 ## Summary
